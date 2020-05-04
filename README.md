@@ -6,4 +6,4 @@ An Open Source, Low Tech, Low Cost Ventilator
 
 # LICENSE :
 
-This project is under [GPLv3] (https://www.gnu.org/licenses/gpl-3.0.en.html)
+This project is under [CERN-OHL-S v2 or ater] (https://ohwr.org/cern_ohl_s_v2.txt)
