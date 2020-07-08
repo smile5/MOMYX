@@ -2,7 +2,11 @@
 OMYXAir is an extremely simple but sophiticated Respiratory system:
 An Open Source, Low Tech, Low Cost Ventilator
 
+Picture of the complete system :
 ![alt text](https://github.com/smile5/MOMYX/blob/master/Test_system_red.jpeg?raw=true)
+
+The System can be monitor by a PC (Linux-Windows-MAC) or Rpi or any other Linux Board, the interface is shown below:
+![alt text](https://github.com/smile5/MOMYX/blob/master/Capture_Interface.png?raw=true)
 
 # LICENSE :
 
